@@ -1,34 +1,33 @@
-```md
-<p align="center">
-
 # Hi, I'm Dmitry 👋
 
-### 🎓 Computer Science Student | Machine Learning Enthusiast
+### 🎓 Computer Science Student | 🤖 Machine Learning Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=TryHardSummer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TryHardSummer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-![Student](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br><br>
 
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about **Machine Learning, Data Analysis, and Software Development**.
+I'm a **Computer Science student** passionate about **Machine Learning, Data Science and Software Development**.
 
-Currently I'm studying classical machine learning algorithms, improving my Python skills, and building practical projects to strengthen my portfolio.
+Currently, I'm focused on building end-to-end ML projects, improving my Python skills, and exploring modern approaches to predictive modeling.
 
-- 🎓 Computer Science Student
-- 🤖 Interested in Machine Learning & AI
-- 🐍 Learning the Python ecosystem
-- 📊 Solving real-world ML problems
-- 📱 Android Developer (Java)
-- 💻 Interested in Backend Development
-- 📚 Always learning something new
+* 🎓 Computer Science Student
+* 🤖 Passionate about Machine Learning & AI
+* 📊 Building end-to-end ML projects
+* 🐍 Python Developer
+* 📱 Android Developer (Java)
+* 💻 Interested in Backend Development
+* 📚 Always learning something new
 
 ---
 
@@ -37,123 +36,143 @@ Currently I'm studying classical machine learning algorithms, improving my Pytho
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,mysql"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,mysql"/>
 </p>
 
 ### Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* XGBoost
+* CatBoost
+* Random Forest
+* Ridge Regression
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- XGBoost
-- CatBoost
-- Ridge Regression
-- Random Forest
-
-### Development
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,androidstudio,vscode"/>
 </p>
 
-- Jupyter Notebook
+* Jupyter Notebook
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
-- Feature Engineering
-- Model Evaluation
-- Cross Validation
-- Hyperparameter Tuning
-- Deep Learning
-- MLOps Basics
+* Feature Engineering
+* Model Evaluation
+* Cross Validation
+* Hyperparameter Optimization
+* Deep Learning
+* MLOps Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Telco Churn Prediction
+### 🌱 [Fertilizer Forecasting](https://github.com/TryHardSummer/fertilizer-forecasting)
 
-Machine Learning project for predicting customer churn in the telecom industry.
+Machine Learning project for predicting the optimal fertilizer type based on soil characteristics and environmental conditions.
 
 **Highlights**
-- Data preprocessing
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Cross Validation
-- Model Comparison
-- Hyperparameter Tuning
 
-**Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter Notebook
+* Data preprocessing
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Cross Validation
+* Hyperparameter Tuning
+* Model Evaluation
 
-🔗 https://github.com/TryHardSummer/telco-churn-prediction
-
----
-
-### 📚 SeaBook
-
-Android application for buying, selling and exchanging books.
-
-Users can register, create book listings, communicate with other users and manage their profile.
-
-**Stack:** Java • Firebase • Android Studio
-
-🔗 https://github.com/TryHardSummer/SeaBook
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 ---
 
-### 🚗 HMI Vehicle
+### 🤖 [Telco Churn Prediction](https://github.com/TryHardSummer/telco-churn-prediction)
 
-Desktop multimedia application for a vehicle infotainment system.
+End-to-end Machine Learning project for predicting customer churn in the telecom industry.
 
-**Stack:** C# • .NET
+**Highlights**
 
-🔗 https://github.com/TryHardSummer/HMI_Vehicle
+* Data preprocessing
+* Feature Engineering
+* Exploratory Data Analysis
+* Cross Validation
+* Model Comparison
+* Hyperparameter Optimization
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
-## 📊 GitHub Stats
+### 📚 [SeaBook](https://github.com/TryHardSummer/SeaBook)
+
+Android marketplace for buying, selling and exchanging books.
+
+**Features**
+
+* User Authentication
+* Firebase Realtime Database
+* Book Listings
+* Built-in Chat
+* User Profiles
+
+**Stack:** `Java` `Firebase` `Android Studio`
+
+---
+
+### 🚗 [HMI Vehicle](https://github.com/TryHardSummer/HMI_Vehicle)
+
+Desktop multimedia interface for a vehicle infotainment system.
+
+**Stack:** `C#` `.NET`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TryHardSummer&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryHardSummer&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TryHardSummer&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryHardSummer&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TryHardSummer&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=TryHardSummer&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TryHardSummer&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TryHardSummer&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 Goals for 2026
 
-- 🚀 Build more Machine Learning projects
-- 🧠 Learn Deep Learning
-- ⚙️ Study MLOps fundamentals
-- 🌐 Improve backend development skills
-- 🤝 Contribute to Open Source
+* 🚀 Build 10+ Machine Learning projects
+* 🧠 Learn Deep Learning
+* ⚙️ Study MLOps
+* 🌐 Improve Backend Development
+* 🤝 Contribute to Open Source
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
-- GitHub: https://github.com/TryHardSummer
+<p>
+  <a href="https://github.com/TryHardSummer">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+GitHub: **https://github.com/TryHardSummer**
 
 ---
 
 <p align="center">
 
-> *"Learning by building."*
+### 💡 *Learning by building.*
 
 </p>
-```
